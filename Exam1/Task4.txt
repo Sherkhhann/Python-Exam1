@@ -1,0 +1,5 @@
+4:
+    Explain the purpose of a try-except block in Python. Provide an example of how it can be used to handle exceptions.
+
+    ��������� ���������� ����� try-except. ��������� ������ ����, ��� ��� ����� ������������.
+ baroi skip kardani error lozim ast. Misol baroi kalkulator istifoda mebarem, ki agar 0 ba adad taksim kunem except print("Error")

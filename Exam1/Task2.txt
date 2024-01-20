@@ -1,0 +1,6 @@
+2:
+    Differentiate between an expression and a statement in Python. Give an example of each.
+    
+    Различие между выражением и оператором в Python. Приведите пример каждого.
+
+    

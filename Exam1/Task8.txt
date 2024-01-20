@@ -1,0 +1,6 @@
+8:
+    Explain the differences between tuples, lists, dictionaries, and sets in Python. Provide a use case for each data structure.
+
+    Объясните различия между кортежами, списками, словарями и множествами в Python. Предоставьте вариант использования для каждой структуры данных.
+    vakte mo list mesozem dar on mo metonem chand tipro dokhil kunem va on az index iborat ast. Dar dictionary mo metavonem indexhoro nom 
+    monem va tiphoi alohida-alohida dokhil mekunem. 

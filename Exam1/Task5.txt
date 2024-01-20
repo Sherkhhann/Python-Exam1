@@ -1,0 +1,12 @@
+5:
+    What is the "match" statement introduced in Python 3.10? Provide an example of how it can be used with pattern matching.
+
+    Что такое оператор «match»? Приведите пример того, как его можно использовать.
+match baroi sanjish lozim ast.
+misol:
+a=int(input())
+b=input()
+c=int(input())
+math b:
+ case "+":
+ print("Yes")

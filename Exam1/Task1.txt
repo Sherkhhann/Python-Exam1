@@ -1,0 +1,6 @@
+﻿1:
+    Describe what virtualenv is and why it's useful in Python development. Provide steps to create and activate a virtual environment.
+    Опишите, что такое virtualenv и почему он полезен при разработке на Python. Предоставьте инструкции по созданию и активации виртуальной среды.  
+
+    virtualenv baroi soxtani muhiti virtuali lozim ast. Vakte ki mo mekhohem 1 bibliotekaro install kunem vale mekhohem ki tanho baroi 1
+    proekt kor kunad. Baroi in mo virtualnev mesozem. Yak folder mesozem va dar on ba vositai cmd pip install mekunem.
